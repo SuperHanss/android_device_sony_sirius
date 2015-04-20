@@ -1,9 +1,9 @@
 [
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_kernel_sony_msm8974",
+        "repository":   "sonyxperiadev/kernel",
         "target_path":  "kernel/sony/msm8974",
-        "revision":     "cm-12.1"
+        "revision":     "/aosp/AU_LINUX_ANDROID_LA.BF64.1.2.1_RB1.05.00.02.019.067"
     },
      {
         "remote":       "github",
