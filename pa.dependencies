@@ -7,9 +7,9 @@
     },
      {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_device_sony_msm8974-common",
+        "repository":   "AOSPA-L/android_device_sony_msm8974-common",
         "target_path":  "device/sony/msm8974-common",
-        "revision":     "cm-12.1"
+        "revision":     "lollipop-mr1"
     },
     {
         "remote":       "github",
@@ -39,6 +39,12 @@
         "remote":       "github",
         "repository":   "CyanogenMod/android_hardware_sony_thermanager",
         "target_path":  "hardware/sony/thermanager",
+        "revision":     "cm-12.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "CyanogenMod/android_bootable_recovery",
+        "target_path":  "bootable/recovery",
         "revision":     "cm-12.1"
     },
     {
