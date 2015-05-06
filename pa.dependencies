@@ -31,20 +31,8 @@
     },
     {
         "remote":       "github",
-        "repository":   "CyanogenMod/android_device_sony_qcom-common",
-        "target_path":  "device/sony/qcom-common",
-        "revision":     "cm-12.0"
-    },
-    {
-        "remote":       "github",
         "repository":   "CyanogenMod/android_hardware_sony_thermanager",
         "target_path":  "hardware/sony/thermanager",
-        "revision":     "cm-12.1"
-    },
-    {
-        "remote":       "github",
-        "repository":   "CyanogenMod/android_bootable_recovery",
-        "target_path":  "bootable/recovery",
         "revision":     "cm-12.1"
     },
     {
